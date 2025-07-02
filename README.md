@@ -10,7 +10,7 @@
 
 ## 📘 Description
 
-The **Banking App** is a console-based C++ application designed for a fictional customer (Airgead Banking) to teach students about fiscal responsibility through hands-on investment simulations. The app demonstrates how compound interest works both **with and without monthly deposits**, helping users understand the impact of regular saving habits.
+The **Banking App** is a console-based C++ application designed for a fictional company (Airgead Banking) to teach students about fiscal responsibility through hands-on investment simulations. The app demonstrates how compound interest works both **with and without monthly deposits**, helping users understand the impact of regular saving habits.
 
 This project was developed for educational purposes and focuses on simulating real-world investment growth scenarios over time.
 
